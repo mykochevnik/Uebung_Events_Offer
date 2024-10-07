@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\earpods.jpg" />
+    <None Remove="images\gamerstuhl.png" />
+    <None Remove="images\ImageOfer8.jpg" />
+    <None Remove="images\jumpgo.png" />
+    <None Remove="images\korkenzieher.jpg" />
+    <None Remove="images\nackenkissen.jpg" />
+    <None Remove="images\rucksack.jpg" />
+    <None Remove="images\sneaker.jpg" />
+    <None Remove="images\teeblume.jpg" />
+    <None Remove="images\wecker.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\earpods.jpg" />
+    <Resource Include="images\gamerstuhl.png" />
+    <Resource Include="images\ImageOfer8.jpg" />
+    <Resource Include="images\jumpgo.png" />
+    <Resource Include="images\korkenzieher.jpg" />
+    <Resource Include="images\nackenkissen.jpg" />
+    <Resource Include="images\rucksack.jpg" />
+    <Resource Include="images\sneaker.jpg" />
+    <Resource Include="images\teeblume.jpg" />
+    <Resource Include="images\wecker.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,40 @@
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.exe
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.deps.json
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.runtimeconfig.json
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.dll
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.pdb
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer_MarkupCompile.cache
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer_MarkupCompile.lref
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.g.resources
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.AssemblyInfoInputs.cache
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.AssemblyInfo.cs
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.csproj.CoreCompileInputs.cache
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.dll
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\refint\U7Offer.dll
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.pdb
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.genruntimeconfig.cache
+C:\Users\GeierAlexandra\source\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\ref\U7Offer.dll
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.exe
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.deps.json
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.runtimeconfig.json
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.dll
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\bin\Debug\net8.0-windows\U7Offer.pdb
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer_MarkupCompile.cache
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer_MarkupCompile.lref
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.g.resources
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.AssemblyInfoInputs.cache
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.AssemblyInfo.cs
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.csproj.CoreCompileInputs.cache
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.dll
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\refint\U7Offer.dll
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.pdb
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\U7Offer.genruntimeconfig.cache
+C:\Users\GeierAlexandra\OneDrive - LG-Academy\repos\Vertiefung\U7Offer\obj\Debug\net8.0-windows\ref\U7Offer.dll
